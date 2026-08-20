@@ -1,0 +1,13 @@
+# Dados pessoais - PDFs da Uber
+data/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+
+# Arquivos de ambiente
+.env
